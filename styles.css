@@ -113,3 +113,85 @@ html, body {
 .footer-nav img {
     width: 4vw;
 }
+
+.btn {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0.67em;
+    cursor: pointer;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2em;
+}
+
+.btn-header {
+    color: white;
+    border: 2px solid #2D9CD8;
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 2em;
+    font-size: 1.5em;
+    font-weight: lighter;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.btn-header:hover {
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.btn-play {
+    color: #2D9CD8;
+    font-size: 4em;
+    border-radius: 50%;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.tour-row {
+    border-bottom: 1px solid #777;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.tour-row:last-child {
+    border-bottom: none;
+}
+
+.tour-item {
+    display: inline-block;
+    padding-right: 0.5em;
+}
+
+.tour-date {
+    color: #555;
+    font-weight: bold;
+    width: 10%;
+}
+
+.tour-city {
+    width: 23%;
+}
+
+.tour-arena {
+    width: 41%;
+}
+
+.tour-btn {
+    max-width: 18%;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #56CCF2;
+    border: none;
+    border-radius: 2em;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #2D9CD8;
+}
