@@ -1,4 +1,4 @@
-# Gorillaz Band Website - Demo
+# Band Website - Demo
 
 Simple website created with HTML, CSS, and JavaScript as a proof of concept
 
