@@ -20,4 +20,4 @@ To demo HTML, CSS, and JavaScript and to test deployment of a static website
 
 ## Live Demo
 
-#### To visit the website click [here]()
+#### To visit the website click [here](https://band-website-demo.herokuapp.com/index.html)
